@@ -1,13 +1,13 @@
-package com.techprimers.aws;
+package com.awselasticbeanstalk;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AwsElasticBeanstalkExample2Application {
+public class AwsElasticBeanstalkApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AwsElasticBeanstalkExample2Application.class, args);
+		SpringApplication.run(AwsElasticBeanstalkApplication.class, args);
 	}
 
 }
