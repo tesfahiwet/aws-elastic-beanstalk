@@ -13,7 +13,7 @@ public class HelloController {
         return "Hello TechPrimers";
     }
 
-    @GetMapping
+    @GetMapping("/tes")
     public String hello2() {
         return "Hello tesfahiwet";
     }
